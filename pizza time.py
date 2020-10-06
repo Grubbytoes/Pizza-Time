@@ -1,3 +1,4 @@
+#PUSSY
 class Topping:
     def __init__(self, name, isVeg = True):
         self.name = name
